@@ -1,0 +1,101 @@
+*
+
+<html>
+<meta charset="UTF-8">
+
+<head>
+<script type=texte/javascript" src=index.js" ></script>
+-<head>
+<body>
+
+<script type =<texte/javascript">
+
+TP1 Exxercice 1
+
+var nombbreDeeCamarade = 5;
+var monSalaire = 2000;
+var LePrixDemaVoiture = 1500;
+var monLoyer = 500
+var leprixDemonOrdinateur = 1100
+//console.log(typeof(nombreDeCamarade))
+var lePrixDeLaBaguette = 0.95;
+var desOeufs = 2.25;
+var clavier = 10.995;
+var lePrixDeMonTelephone = 15.35;
+var lePrixDeMonLogiciel = 15.60;
+//console.log(typeof(LePrixDeLaBaguette))
+Var bonjour = "Bonjour je suis la";
+var monNom = "Benfella"
+var monPrenom = "Sofiane";
+var laMarqueDeMavoiture = "audi";
+var consomationVoiture = "Diesel";
+//console.log(typeof (bonjour))
+
+
+TP2 Exercice 1
+
+for(var i=50; i<= 65; i++){
+	//console.log(i);
+}
+var n = 50;
+while(n<66) {
+	//console.log(n);
+	n++
+}
+
+TP2 Exerecice 2
+
+var N= 150
+for(var i=1; i<N;i++)) {
+	if(i % 7 === 0 || 1 % 3 ===0){
+		//console.log(i)
+	}
+}
+
+
+TP Exercice 3
+
+for(var r = 1; r<= N; r++) {
+		if(r % 5 === 0 && t % 7 ===0) {
+			//console.log(t);
+		}
+	}
+	
+var t = 1;
+while(t < 151 ){
+	if(t % 5 === 0 && t % 7 ===0){
+		//console.log(t);
+	}
+	t++;
+}
+
+
+
+TP Exercice 4
+
+var a = 0
+for(var z=10; z<= 20; z++){
+	a = a + zz;
+}
+console.log(Voici le resultat : " + a);
+</script>
+
+TP Jour 2 exercice 1 
+ajoutez un script qui affiche 10 fois la phrase <<Hello World>>
+
+var p = 1
+var m = Hello World
+while(p <=10){
+		//console.log(m);
+	}
+	p++;
+}
+
+
+	
+
+
+
+
+
+</html>
