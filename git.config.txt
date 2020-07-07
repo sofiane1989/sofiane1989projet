@@ -80,4 +80,22 @@ for(var z=10; z<= 20; z++){
 console.log(Voici le resultat : " + a);
 </script>
 
+TP Jour 2 exercice 1 
+ajoutez un script qui affiche 10 fois la phrase <<Hello World>>
+
+var p = 1
+var m = Hello World
+while(p <=10){
+		//console.log(m);
+	}
+	p++;
+}
+
+
+	
+
+
+
+
+
 </html>
