@@ -83,14 +83,13 @@ console.log(Voici le resultat : " + a);
 TP Jour 2 exercice 1 
 ajoutez un script qui affiche 10 fois la phrase <<Hello World>>
 
-var p = 1
-var m = Hello World
-while(p <=10){
-		//console.log(m);
+for(var p = 1; p<= 10; p++) {
+	//console.log("Hello word ! ");
+		
 	}
-	p++;
-}
+</script>
 
+</html>
 
 	
 
