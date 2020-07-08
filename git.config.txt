@@ -85,6 +85,7 @@ ajoutez un script qui affiche 10 fois la phrase <<Hello World>>
 
 for(var p = 1; p<= 10; p++) {
 	console.log("Hello world ! ");}
+
 </script>
 
 </html>
